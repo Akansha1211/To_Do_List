@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Apps.java.iml" filepath="$PROJECT_DIR$/Apps.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Morse_Code_Translator/Morse_Code_Translator.iml" filepath="$PROJECT_DIR$/Morse_Code_Translator/Morse_Code_Translator.iml" />
     </modules>
   </component>
 </project>
